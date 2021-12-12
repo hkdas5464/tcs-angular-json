@@ -1,0 +1,22 @@
+[
+  {
+    "empid": 1,
+    "id": 4,
+    "firstname": "Ram",
+    "lastname": "Kumar",
+    "email": "ram@gmail.com",
+    "mobile": "12345678910",
+    "address": "Ramdih",
+    "birth": "17-12-1999"
+  },
+  {
+    "empid": 1,
+    "id": 5,
+    "firstname": "Rajesh",
+    "lastname": "Kumar",
+    "email": "rajesh@gmail.com",
+    "mobile": "123456789",
+    "address": "Rajesh Nagar",
+    "birth": "25-12-1222"
+  }
+]
